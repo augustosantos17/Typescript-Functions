@@ -42,7 +42,7 @@ Passo a passo para instalar o projeto localmente.
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seuusuario/nome-do-repositorio.git
+git clone https://github.com/seuusuario/Typescript.Functions.git
 
 # Navegue até o diretório do projeto
 cd nome-do-repositorio

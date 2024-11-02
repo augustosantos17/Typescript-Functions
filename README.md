@@ -12,10 +12,10 @@ Este projeto tem o intuito de me aperfeiçoar como programador e tudo será atua
 
 ## 🛠️ Funcionalidades
 
-- ✅ Funcionalidade principal 1
-- ✅ Funcionalidade principal 2
-- ✅ Funcionalidade extra ou diferencial
-- 🔧 Melhorias futuras (opcional)
+- ✅ Manipulação TypeScript
+- ✅ Totalmente remoto
+- ✅ Comitando pelo |GITBASH|
+- 🔧 Melhorias futuras
 
 ---
 
@@ -24,7 +24,7 @@ Este projeto tem o intuito de me aperfeiçoar como programador e tudo será atua
 
 | Tela principal | Tela secundária |
 |----------------|----------------|
-| ![Tela 1](images/ts.jpg) | ![Tela 2](image/js-ts.png) |
+| ![Tela 1](images/ts.jpg) | ![Tela 2](images/js-ts.png) |
 
 ---
 
@@ -52,3 +52,11 @@ npm install
 
 # Execute o projeto
 npm start
+
+📄 Licença
+Este projeto está sob a licença XYZ - consulte o arquivo LICENSE para detalhes.
+
+💬 Contato
+Se precisar de ajuda ou tiver dúvidas, entre em contato:
+
+Augusto Santos - linkedin.com/in/augusto-dos-santos-barbosa - augustosantos1709@gmail.com

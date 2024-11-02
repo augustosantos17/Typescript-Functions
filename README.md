@@ -24,7 +24,7 @@ Este projeto tem o intuito de me aperfeiçoar como programador e tudo será atua
 
 | Tela principal | Tela secundária |
 |----------------|----------------|
-| ![Tela 1](images/ts.jpg) | ![Tela 2](images/js-ts.png) |
+| ![Tela 1](images/ts.jpg) | ![Tela 2](image/js-ts.png) |
 
 ---
 
